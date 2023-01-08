@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Rental Unit</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Rental Units</value>
+    </caseValues>
+    <fields>
+        <label><!-- Air Conditioning --></label>
+        <name>Air_Conditioning__c</name>
+        <picklistValues>
+            <masterLabel>Ceiling Fan</masterLabel>
+            <translation><!-- Ceiling Fan --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Central</masterLabel>
+            <translation><!-- Central --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Window Unit</masterLabel>
+            <translation><!-- Window Unit --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Appliances Included --></label>
+        <name>Appliances_Included__c</name>
+    </fields>
+    <fields>
+        <label><!-- Floors --></label>
+        <name>Floors__c</name>
+    </fields>
+    <fields>
+        <label><!-- Furniture Included --></label>
+        <name>Furniture_Included__c</name>
+    </fields>
+    <fields>
+        <label><!-- Garage --></label>
+        <name>Garage__c</name>
+        <picklistValues>
+            <masterLabel>Assigned Parking</masterLabel>
+            <translation><!-- Assigned Parking --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Attached</masterLabel>
+            <translation><!-- Attached --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Detached</masterLabel>
+            <translation><!-- Detached --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Heating --></label>
+        <name>Heating__c</name>
+        <picklistValues>
+            <masterLabel>Central</masterLabel>
+            <translation><!-- Central --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Forced Air</masterLabel>
+            <translation><!-- Forced Air --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Laundry --></label>
+        <name>Laundry__c</name>
+        <picklistValues>
+            <masterLabel>Community</masterLabel>
+            <translation><!-- Community --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>In-unit hook-ups</masterLabel>
+            <translation><!-- In-unit hook-ups --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Number of Parking Spaces --></label>
+        <name>N__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Bathrooms --></label>
+        <name>No__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Bedrooms --></label>
+        <name>Number_of_Bedrooms__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pets Allowed --></label>
+        <name>Pets_Allowed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rental Unit Name --></label>
+        <name>Rental_Unit_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Square feet --></label>
+        <name>Total__c</name>
+    </fields>
+    <fields>
+        <label><!-- Unit# --></label>
+        <name>Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Utilities Included --></label>
+        <name>Utilities_Included__c</name>
+        <picklistValues>
+            <masterLabel>Cold Water</masterLabel>
+            <translation><!-- Cold Water --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Electric</masterLabel>
+            <translation><!-- Electric --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gas</masterLabel>
+            <translation><!-- Gas --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hot water</masterLabel>
+            <translation><!-- Hot water --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sewage</masterLabel>
+            <translation><!-- Sewage --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trash</masterLabel>
+            <translation><!-- Trash --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

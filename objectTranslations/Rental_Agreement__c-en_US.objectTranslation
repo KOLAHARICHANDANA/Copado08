@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Rental Agreement</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Rental Agreements</value>
+    </caseValues>
+    <fields>
+        <label><!-- Balance --></label>
+        <name>Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deposit --></label>
+        <name>Deposit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Pet Deposit --></label>
+        <name>Pet_Deposit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rental Amount --></label>
+        <name>Rental_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rental Unit --></label>
+        <name>Rental_Unit__c</name>
+        <relationshipLabel><!-- Rental Agreements --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Rental has pets --></label>
+        <name>Rental_has_pets__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Deposit --></label>
+        <name>Total_Deposit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Invoiced --></label>
+        <name>Total_Invoiced__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Payments --></label>
+        <name>Total_Payments__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
